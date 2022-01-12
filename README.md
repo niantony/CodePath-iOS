@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gyazo.com/1fd4850c9554e9bbfa38deca74ee7c56' />
+https://gyazo.com/1fd4850c9554e9bbfa38deca74ee7c56
 
 ## Notes
 
