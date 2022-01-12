@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://gyazo.com/1fd4850c9554e9bbfa38deca74ee7c56
+<img src='https://recordit.co/fiZItskkul' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
